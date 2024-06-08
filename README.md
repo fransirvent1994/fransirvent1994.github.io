@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, my name is Francisco</a>👋</h1>
+<h1 align="center">Hi, my name is Francisco👋</h1>
   
 <p align="center">
 
@@ -53,8 +53,8 @@ At this moment, I´m studying DevOps technology, which is my primary objective t
 👷<ins><b>These are my repositories to show my projects.</b></ins>
 </h2>
 These are my actual projects (more upcoming) and most of them are made with Python, but in the future I will upload repositories with DevOps Tools, so keep updated here and take a look to my projects.
-<h2 align="center">My repository to see my projects ready to be shown:<a href="https://github.com/fransirvent1994/VisibleProjects"> <br><ins>Visible Projects</ins> </a> <br>(also they are down this page)</br></br></h2>
-<h2 align="center"> Also I have some repositories to teach about Python:<a href= "https://github.com/fransirvent1994/Python-Basics.git"><br><ins>Python Basics</ins></a></br></h2>
+<h2 align="center">My repository to see my projects ready to be shown:<a href="https://github.com/fransirvent1994/VisibleProjects"> <br><ins>Visible Projects</ins> </a> <br>(also they are down this page)</h2>
+<h2 align="center"> Also I have some repositories to teach about Python:<a href= "https://github.com/fransirvent1994/Python-Basics.git"><br><ins>Python Basics</ins></a></h2>
 
 <h2>
 <b>🔨<ins>My projects</ins>🔨</b>
@@ -86,11 +86,9 @@ These are my actual projects (more upcoming) and most of them are made with Pyth
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>The Hangman Tree: Classic game to guess words by choosing letters.</p>
+<p>The Hangman Tree: Classic game to guess words by choosing letters.</p>
 </td>
 </div>                                                             
-</table>                                                                                 
-</div>
 
 <table>
 <td width="50%">
@@ -105,7 +103,5 @@ These are my actual projects (more upcoming) and most of them are made with Pyth
 </a>
 </p>
 <p>Face Recognition code: This program allows the user to compare different pictures between them and it determines if they are the same person or not.</p>
-</td>
 </div>                                                                               
-</table>                                                                                 
-</div>
+
