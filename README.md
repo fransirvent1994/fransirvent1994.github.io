@@ -32,22 +32,17 @@ At this moment, I´m studying DevOps technology, which is my primary objective t
 </a>
 </p>
 </h2>
-
-
   
-<ins><b>💻Skills and techs💻</b></ins>
-- Python Developer
-- Django/Flask
-- Databases, SQL and Data Science with Python
-- Machine Learning
-- C
-- C++
-- SQL
-- HTML
-- CSS
-- DevOps (Git, Linux, Ubuntu, Docker, Kubernetes, Jenkins)
-- Spanish/English
-- Passion about technology
+<h2><ins><b>💻Skills and techs💻</b></ins></h2>
+<li>Python Developer</li>
+<li>Django/Flask</li>
+<li>Databases, SQL and Data Science with Python</li>
+<li>Machine Learning</li>
+<li>C and C++ programming language</li>
+<li>HTML, CSS and JS programming language</li>
+<li>DevOps (Git, Linux, Ubuntu, Docker, Kubernetes, Jenkins)</li>
+<li>Spanish native/English bilingual</li>
+<li>Passion about tech</li>
 
 <h2>
 👷<ins><b>These are my repositories to show my projects.</b></ins>
@@ -61,7 +56,6 @@ These are my actual projects (more upcoming) and most of them are made with Pyth
 </h2>
 
 <table>
-<tr>
 <td width="50%">
 <h3 align="center"><a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant.py"><ins>🤖Voice Assistant</ins></a></h3>
 <div align="center">
@@ -72,23 +66,22 @@ These are my actual projects (more upcoming) and most of them are made with Pyth
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Voice Assistant code: A virtual assistant. User can command it to do different things, like search in the net, play music or do maths.</p>
-</div>
-                                                                                      
+<p>Voice Assistant code: A virtual assistant. User can command it to do different things, like search in the net, play music or do maths.
 </td>
 
+<table>
 <td width="50%">
 <h3 align="center"><a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py"><ins>🎮The Hanging Tree</ins></a></h3>
 <div align="center">                                       
-<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py" target="_blank"><img src="https://media.istockphoto.com/illustrations/simple-illustration-of-hangman-game-illustration-id1196954772?k=6&m=1196954772&s=170667a&w=0&h=iNA3SlxYdtJZrtzu7uxEv18YCGEepC-Zs8gmSgvSg6c=" width="400" alt="Hanging Tree"></a>
+<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py" target="_blank">
+<img src="https://media.istockphoto.com/illustrations/simple-illustration-of-hangman-game-illustration-id1196954772?k=6&m=1196954772&s=170667a&w=0&h=iNA3SlxYdtJZrtzu7uxEv18YCGEepC-Zs8gmSgvSg6c=" width="400" alt="Hanging Tree"></a>
 <p>
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>The Hangman Tree: Classic game to guess words by choosing letters.</p>
+<p>The Hangman Tree: Classic game to guess words by choosing letters.
 </td>
-</div>                                                             
 
 <table>
 <td width="50%">
@@ -96,12 +89,12 @@ These are my actual projects (more upcoming) and most of them are made with Pyth
 <div align="center">
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition.py" target="_blank">
 <img src="https://www.vhv.rs/dpng/d/232-2327111_transparent-recognition-clipart-face-recognition-logo-png-png.png" width="400" alt="Face Recognition">
-</a>
 <p>
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition.py" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Face Recognition code: This program allows the user to compare different pictures between them and it determines if they are the same person or not.</p>
+</td>
 </div>                                                                               
 
