@@ -64,24 +64,20 @@ These are my actual projects (more upcoming) and most of them are made with Pyth
 <p>
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant.py" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
 <p>Voice Assistant code: A virtual assistant. User can command it to do different things, like search in the net, play music or do maths.
-</td>
-
+</table>
+  
 <table>
 <td width="50%">
 <h3 align="center"><a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py"><ins>🎮The Hanging Tree</ins></a></h3>
 <div align="center">                                       
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py" target="_blank">
-<img src="https://media.istockphoto.com/illustrations/simple-illustration-of-hangman-game-illustration-id1196954772?k=6&m=1196954772&s=170667a&w=0&h=iNA3SlxYdtJZrtzu7uxEv18YCGEepC-Zs8gmSgvSg6c=" width="400" alt="Hanging Tree"></a>
+<img src="https://media.istockphoto.com/illustrations/simple-illustration-of-hangman-game-illustration-id1196954772?k=6&m=1196954772&s=170667a&w=0&h=iNA3SlxYdtJZrtzu7uxEv18YCGEepC-Zs8gmSgvSg6c=" width="400" alt="Hanging Tree">
 <p>
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
 <p>The Hangman Tree: Classic game to guess words by choosing letters.
-</td>
+</table>
 
 <table>
 <td width="50%">
@@ -92,9 +88,6 @@ These are my actual projects (more upcoming) and most of them are made with Pyth
 <p>
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition.py" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Face Recognition code: This program allows the user to compare different pictures between them and it determines if they are the same person or not.</p>
-</td>
-</div>                                                                               
+<p>Face Recognition code: This program allows the user to compare different pictures between them and it determines if they are the same person or not.
+</table>                                                            
 
