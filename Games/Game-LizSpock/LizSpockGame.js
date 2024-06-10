@@ -8,17 +8,21 @@ function play(userChoice) {
 }
 
 function getResult(userChoice, computerChoice) {
+    const winConditions = {
+        Rock: ["Scissors", "Lizard"],
+        Paper: ["Rock", "Spock"],
+        Scissors: ["Paper", "Lizard"],
+        Lizard: ["Spock", "Paper"],
+        Spock: ["Scissors", "Rock"]
+    };
+
     if (userChoice === computerChoice) {
-        return "It´s a tie!";
+        return "It's a tie!";
     }
 
-    if ((userChoice === "Rock" && (computerChoice === "Scissors" || computerChoice === "Lizard")) ||
-        (userChoice === "Paper" && (computerChoice === "Rock" || computerChoice === "Spock")) ||
-        (userChoice === "Scissors" && (computerChoice === "Paper" || computerChoice === "Lizard")) ||
-        (userChoice === "Lizard" && (computerChoice === "Spock" || computerChoice === "Paper")) ||
-        (userChoice === "Spock" && (computerChoice === "Scissors" || computerChoice === "Rock"))) {
+    if (winConditions[userChoice].includes(computerChoice)) {
         return "You win!";
-    } else {
-        return "You lose!";
     }
+
+    return "You lose!";
 }
