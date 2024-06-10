@@ -50,12 +50,13 @@ At this moment, I´m studying DevOps technology, which is my primary objective t
 👷<b>These are my GitHub repositories ready to be shown. I work mostly with Python, but also with JavaScript. In fact, I started a repository for Python beginners.</b>
 </h2>
 <li><a href="https://github.com/fransirvent1994/VisibleProjects">My Visible Projects</a></li>
-<li>My repository to teach Python: <a href= "https://github.com/fransirvent1994/Python-Basics.git">Python Basics</li>
+<li>My repository to teach Python: <a href= "https://github.com/fransirvent1994/Python-Basics.git">Python Basics</a>
 
 <h2>
 <b>🔨<ins>My projects made with GitHub Pages</ins>🔨</b>
-<h3>This section shows my web projects online.</h3>
 </h2>
+<h3>This section shows my web projects online.</h3>
+
 <h2><b><u>Games🎮</u></b></h2>
-<li><a href="https://fransirvent1994.github.io/Games/Game-LizSpock/LizSpockGame">Rock, papers, scissors, lizard, Spock Game</li>
-<p>This is a game which is based on the popular TV show "Big Bang Theory", which, the group friends, created basing on the classic "rock, papers scissors" game.</p>
+<li><a href="https://fransirvent1994.github.io/Games/Game-LizSpock/LizSpockGame">Rock, papers, scissors, lizard, Spock Game</a></li>
+<p>This is a game which is based on the popular TV show "Big Bang Theory", which, the group friends, created basing on the classic "rock, papers scissors" game.
