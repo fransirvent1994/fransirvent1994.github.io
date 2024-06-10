@@ -35,19 +35,16 @@ At this moment, I´m studying DevOps technology, which is my primary objective t
 
 
   
-<ins><b>💻Skills and techs💻</b></ins>
-- Python Developer
-- Django/Flask
-- Databases, SQL and Data Science with Python
-- Machine Learning
-- C
-- C++
-- SQL
-- HTML
-- CSS
-- DevOps (Git, Linux, Ubuntu, Docker, Kubernetes, Jenkins)
-- Spanish/English
-- Passion about technology
+<h2><ins><b>💻Skills and techs💻</b></ins></h2>
+<li>Python Developer</li> 
+<li>Django/Flask</li>
+<li>Databases, SQL and Data Science with Python</li>
+<li>Machine Learning</li>
+<li>C and C++ program language</li>
+<li>HTML, CSS and JavaScript</li>
+<li>DevOps (Git, Linux, Ubuntu, Docker, Kubernetes, Jenkins)</li>
+<li>Spanish/English</li>
+<li>Passion about tech</li>
 
 <h2>
 👷<ins><b>These are my repositories to show my projects.</b></ins>
