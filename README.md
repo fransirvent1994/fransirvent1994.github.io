@@ -47,6 +47,6 @@
 <h2>🔨 <ins>My projects made with GitHub Pages</ins> 🔨</h2>
 <h3>This section shows my web projects online.</h3>
 
-<h2><b><u>Games 🎮</u></b></h2>
+<h2><b><u>Games</u>🎮</b></h2>
 <li><a href="https://fransirvent1994.github.io/Games/Game-LizSpock/LizSpockGame">Rock, papers, scissors, lizard, Spock Game</a></li>
 <p>This is a game based on the popular TV show "Big Bang Theory", which extends the classic "rock, paper, scissors" game.</p>
