@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, my name is Francisco👋</h1>
+<h1 align="center">Hi, my name is Francisco</a>👋</h1>
   
 <p align="center">
 
@@ -32,30 +32,36 @@ At this moment, I´m studying DevOps technology, which is my primary objective t
 </a>
 </p>
 </h2>
+
+
   
-<h2><ins><b>💻Skills and techs💻</b></ins></h2>
-<li>Python Developer</li>
-<li>Django/Flask</li>
-<li>Databases, SQL and Data Science with Python</li>
-<li>Machine Learning</li>
-<li>C and C++ programming language</li>
-<li>HTML, CSS and JS programming language</li>
-<li>DevOps (Git, Linux, Ubuntu, Docker, Kubernetes, Jenkins)</li>
-<li>Spanish native/English bilingual</li>
-<li>Passion about tech</li>
+<ins><b>💻Skills and techs💻</b></ins>
+- Python Developer
+- Django/Flask
+- Databases, SQL and Data Science with Python
+- Machine Learning
+- C
+- C++
+- SQL
+- HTML
+- CSS
+- DevOps (Git, Linux, Ubuntu, Docker, Kubernetes, Jenkins)
+- Spanish/English
+- Passion about technology
 
 <h2>
 👷<ins><b>These are my repositories to show my projects.</b></ins>
 </h2>
 These are my actual projects (more upcoming) and most of them are made with Python, but in the future I will upload repositories with DevOps Tools, so keep updated here and take a look to my projects.
-<h2 align="center">My repository to see my projects ready to be shown:<a href="https://github.com/fransirvent1994/VisibleProjects"> <br><ins>Visible Projects</ins> </a> <br>(also they are down this page)</h2>
-<h2 align="center"> Also I have some repositories to teach about Python:<a href= "https://github.com/fransirvent1994/Python-Basics.git"><br><ins>Python Basics</ins></a></h2>
+<h2 align="center">My repository to see my projects ready to be shown:<a href="https://github.com/fransirvent1994/VisibleProjects"> <br><ins>Visible Projects</ins> </a> <br>(also they are down this page)</br></br></h2>
+<h2 align="center"> Also I have some repositories to teach about Python:<a href= "https://github.com/fransirvent1994/Python-Basics.git"><br><ins>Python Basics</ins></a></br></h2>
 
 <h2>
 <b>🔨<ins>My projects</ins>🔨</b>
 </h2>
 
 <table>
+<tr>
 <td width="50%">
 <h3 align="center"><a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant.py"><ins>🤖Voice Assistant</ins></a></h3>
 <div align="center">
@@ -64,20 +70,27 @@ These are my actual projects (more upcoming) and most of them are made with Pyth
 <p>
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant.py" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-<p>Voice Assistant code: A virtual assistant. User can command it to do different things, like search in the net, play music or do maths.
-</table>
-  
-<table>
+</a>
+</p>
+<p>Voice Assistant code: A virtual assistant. User can command it to do different things, like search in the net, play music or do maths.</p>
+</div>
+                                                                                      
+</td>
+
 <td width="50%">
 <h3 align="center"><a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py"><ins>🎮The Hanging Tree</ins></a></h3>
 <div align="center">                                       
-<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py" target="_blank">
-<img src="https://media.istockphoto.com/illustrations/simple-illustration-of-hangman-game-illustration-id1196954772?k=6&m=1196954772&s=170667a&w=0&h=iNA3SlxYdtJZrtzu7uxEv18YCGEepC-Zs8gmSgvSg6c=" width="400" alt="Hanging Tree">
+<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py" target="_blank"><img src="https://media.istockphoto.com/illustrations/simple-illustration-of-hangman-game-illustration-id1196954772?k=6&m=1196954772&s=170667a&w=0&h=iNA3SlxYdtJZrtzu7uxEv18YCGEepC-Zs8gmSgvSg6c=" width="400" alt="Hanging Tree"></a>
 <p>
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-<p>The Hangman Tree: Classic game to guess words by choosing letters.
-</table>
+</a>
+</p>
+</p>The Hangman Tree: Classic game to guess words by choosing letters.</p>
+</td>
+</div>                                                             
+</table>                                                                                 
+</div>
 
 <table>
 <td width="50%">
@@ -85,9 +98,14 @@ These are my actual projects (more upcoming) and most of them are made with Pyth
 <div align="center">
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition.py" target="_blank">
 <img src="https://www.vhv.rs/dpng/d/232-2327111_transparent-recognition-clipart-face-recognition-logo-png-png.png" width="400" alt="Face Recognition">
+</a>
 <p>
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition.py" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-<p>Face Recognition code: This program allows the user to compare different pictures between them and it determines if they are the same person or not.
-</table>                                                            
-
+</a>
+</p>
+<p>Face Recognition code: This program allows the user to compare different pictures between them and it determines if they are the same person or not.</p>
+</td>
+</div>                                                                               
+</table>                                                                                 
+</div>
