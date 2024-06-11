@@ -8,6 +8,12 @@ body {
     background-color: #696969;
 }
 
+.back {
+    margin-top: auto;
+    height: auto;
+    width: auto;
+}
+
 .container {
     text-align: center;
     background: rgb(255, 255, 255);
