@@ -5,12 +5,6 @@
 <li><a href="https://fransirvent1994.github.io/Games/Game-LizSpock/LizSpockGame">Rock, papers, scissors, lizard, Spock Game</a></li>
 
 
-
-
-
-
-
-
 <div class="back">
     <a href="https://fransirvent1994.github.io/"><button onclick="back('Back')">Back</button></a>
 </div>
