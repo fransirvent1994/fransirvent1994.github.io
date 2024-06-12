@@ -50,3 +50,7 @@
 <h2><b><u>Games🎮</u></b></h2>
 <li><a href="https://fransirvent1994.github.io/Games/Game-LizSpock/LizSpockGame">Rock, papers, scissors, lizard, Spock Game</a></li>
 <p>This is a game based on the popular TV show "Big Bang Theory", which extends the classic "rock, paper, scissors" game.</p>
+
+<h2><b><u>Utilities</u></b></h2>
+<li><a href="https://fransirvent1994.github.io/Utilities/Calculator">Calculator</a></li>li>
+<p>An advanced calculator.</p>
