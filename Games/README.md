@@ -6,5 +6,5 @@
 
 
 <div class="back">
-    <a href="https://fransirvent1994.github.io/Games"><button onclick="back('Back')">Back</button></a>
+    <a href="https://fransirvent1994.github.io"><button onclick="back('Back')">Back</button></a>
 </div>
