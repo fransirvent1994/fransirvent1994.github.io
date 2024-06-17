@@ -4,6 +4,12 @@ table {
     margin-right: auto; 
 } 
 
+.back{
+    position: fixed;
+    top: 5px;
+    left: 10px;
+}
+
 input[type="button"] { 
     width: 100%; 
     padding: 20px 40px; 
