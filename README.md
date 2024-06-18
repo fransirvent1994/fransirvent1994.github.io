@@ -1,3 +1,4 @@
+<div style="background-color: #1a1a1a; color: white; padding: 20px;">
 <div align="center">
     <h1>Hi, my name is Francisco👋</h1>
     <p>
@@ -57,3 +58,4 @@
 <li><a href="https://fransirvent1994.github.io/Utilities/Calculator">Calculator</a></li>
 <p>An advanced calculator.</p>
 </td>
+</div>
