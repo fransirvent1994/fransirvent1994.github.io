@@ -1,7 +1,7 @@
 <div align="center">
-    <h1>Hi, my name is Francisco👋</h1>
+    <h1>Greetings! <br> My name is Francisco👋</h1>
     <p>
-        Hello everyone! I'm a Computer Engineering student at UOC University (Universitat Oberta de Catalunya) and a young Python Developer passionate about techs and programming.<br>
+        I'm a Computer Engineering student at UOC University (Universitat Oberta de Catalunya) and a young Python Developer passionate about techs and programming.<br>
         I've studied different programming languages for years, such as C, C++ and C#, but my main programming language is Python, followed by JavaScript. Check out some of my projects on my profile.<br>
         Additionally, I have skills with front-end programming languages and I'm currently studying DevOps technology, aiming to secure a role in this field.
     </p>
@@ -36,10 +36,12 @@
     <li>Passion about tech</li>
 </ul>
 
+<!-- Certifications Section -->
+
 <!-- GitHub Repositories Section -->
 <h2>👷 These are my GitHub repositories ready to be shown. I work mostly with Python, but also with JavaScript. In fact, I started a repository for Python beginners.</h2>
 <ul>
-    <li><a href="https://github.com/fransirvent1994/VisibleProjects">My Visible Projects</a></li>
+    <li>My Python and JS projects repository: <a href="https://github.com/fransirvent1994/VisibleProjects">My Visible Projects</a></li>
     <li>My repository to teach Python: <a href="https://github.com/fransirvent1994/Python-Basics">Python Basics</a></li>
 </ul>
 
