@@ -45,6 +45,8 @@
 <h2><ins>My certifications </ins></h2>
 <ul>
     <li><a href="https://coursera.org/share/270d8d9563cf6b79e294a5d9ae3675d5">IBM Data Science Professional Certificate</a></li>
+</h2>
+
 <!-- GitHub Repositories Section -->
 <h2>👨‍💻 <ins>GitHub Repositories</ins> 👨‍💻</h2>
 <ul>
@@ -73,5 +75,3 @@
             </ul>
         </td>
     </tr>
-
-</table>
