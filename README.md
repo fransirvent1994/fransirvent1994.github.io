@@ -25,19 +25,15 @@
 <!-- Skills Section -->
 <h2>💻 <ins>Skills and Technologies</ins> 💻</h2>
 <ul>
-    <li>Python Developer with expertise in Django and Flask</li>
-    <li>Proficient in Databases, SQL, and Data Science with Python</li>
+    <li>Python Developer with Django and Flask</li>
     <li>Familiar with Machine Learning concepts</li>
-    <li>Experience in HTML, CSS, and JavaScript for front-end development</li>
-    <li>Working knowledge of DevOps tools: Git, Linux, Docker, Kubernetes, Jenkins</li>
-    <li>Web-scraping and Automation</li>
+    <li>HTML, CSS and JavaScript</li>
+    <li>DevOps tools: Git, Linux, Docker, Kubernetes, Jenkins</li>
+    <li>Web-scraping and Automation with Python</li>
     <li>Data Science specialized with Pandas, Numpy and Matplotlib</li>
-    <li>Familiar with Machine Learning concepts</li>
     <li>DataBases with SQL, MySQL and SQLlite with Python</li>
-    <li>Experience in HTML, CSS, and JavaScript for front-end development</li>
-    <li>Working knowledge of DevOps tools: Git, Linux, Docker, Kubernetes, Jenkins</li>
     <li>Proficient with Linux</li>
-    <li>Bilingual in Spanish and English</li>
+    <li>Spanish and English bilingual</li>
     <li>Passionate about technology and eager to learn new skills</li>
 </ul>
 
