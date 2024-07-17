@@ -46,7 +46,7 @@
 <!-- GitHub Repositories Section -->
 <h2>👨‍💻 <ins>GitHub Repositories</ins> 👨‍💻</h2>
 <ul>
-    <li><ins><a href="https://github.com/fransirvent1994">My GitHub</ins></a></li>
+    <li><ins><a href="https://github.com/fransirvent1994">My GitHub</a></ins></li>
     <li>Explore my Python and JavaScript projects: <a href="https://github.com/fransirvent1994/VisibleProjects">Visible Projects</a></li>
     <li>Teaching repository for Python beginners: <a href="https://github.com/fransirvent1994/Python-Basics">Python Basics</a></li>
 </ul>
