@@ -26,12 +26,10 @@
 <h2>💻 <ins>Skills and Technologies</ins> 💻</h2>
 <ul>
     <li>Python Developer with expertise in Django and Flask</li>
-<<<<<<< HEAD
     <li>Proficient in Databases, SQL, and Data Science with Python</li>
     <li>Familiar with Machine Learning concepts</li>
     <li>Experience in HTML, CSS, and JavaScript for front-end development</li>
     <li>Working knowledge of DevOps tools: Git, Linux, Docker, Kubernetes, Jenkins</li>
-=======
     <li>Web-scraping and Automation</li>
     <li>Data Science specialized with Pandas, Numpy and Matplotlib</li>
     <li>Familiar with Machine Learning concepts</li>
@@ -39,19 +37,14 @@
     <li>Experience in HTML, CSS, and JavaScript for front-end development</li>
     <li>Working knowledge of DevOps tools: Git, Linux, Docker, Kubernetes, Jenkins</li>
     <li>Proficient with Linux</li>
->>>>>>> 220f87feb640c04eba17b23c073c07d1c41589f9
     <li>Bilingual in Spanish and English</li>
     <li>Passionate about technology and eager to learn new skills</li>
 </ul>
 
-<<<<<<< HEAD
 <!-- My certificates -->
 <h2><ins>My certifications </ins></h2>
 <ul>
     <li><a href="https://coursera.org/share/270d8d9563cf6b79e294a5d9ae3675d5">IBM Data Science Professional Certificate</a></li>
-
-=======
->>>>>>> 220f87feb640c04eba17b23c073c07d1c41589f9
 <!-- GitHub Repositories Section -->
 <h2>👨‍💻 <ins>GitHub Repositories</ins> 👨‍💻</h2>
 <ul>
