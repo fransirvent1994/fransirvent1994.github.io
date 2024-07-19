@@ -61,7 +61,7 @@
             <h3><b><u>Games 🎮</u></b></h3>
             <ul>
                 <li><a href="https://fransirvent1994.github.io/Games/Game-LizSpock/LizSpockGame">Rock, Paper, Scissors, Lizard, Spock Game</a></li>
-                <p>A game based on the TV show "Big Bang Theory" with an extended twist on "rock, paper, scissors".</p>
+                <p>A game based on the popular TV show "Big Bang Theory" with an extended twist on "rock, paper, scissors".</p>
             </ul>
         </td>
         <td width="50%">
