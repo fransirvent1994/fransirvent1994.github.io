@@ -43,7 +43,7 @@
     <li><a href="https://coursera.org/share/270d8d9563cf6b79e294a5d9ae3675d5">IBM Data Science Professional Certificate</a></li> 
         <li><a href="https://www.credly.com/badges/65ed31fa-9f14-498f-801e-faf6389ecf5b/public_url">IBM Data Science Professional Certificate Badge</a></li>
     <li><a href="https://coursera.org/share/a5d306330fca1fe7e3cee69ad86986ea">Google AI Essentials</a></li>
-        <li><li><a href="https://www.credly.com/badges/8d31ae5c-6b53-467c-a90e-10c950ac5ece/public_url">Google AI Essentials Badge</a></li>
+        <li><a href="https://www.credly.com/badges/8d31ae5c-6b53-467c-a90e-10c950ac5ece/public_url">Google AI Essentials Badge</a></li>
     <li><a href="https://coursera.org/share/c0abd0b098bdf516a8076abaebcec545">Automation with Python Professional Certificate</a></li>
         <li><a href="https://www.credly.com/badges/c33ea208-5590-4126-8530-861ef0c7f4bd/public_url">Automation with Python Professional Certificate Badge</a></li>
 </ul>
