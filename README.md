@@ -42,7 +42,7 @@
 
 <a href="https://coursera.org/share/270d8d9563cf6b79e294a5d9ae3675d5"><button>IBM Data Science Professional Certificate</button></a>
 <ul>
-    <li><a href="https://www.credly.com/badges/65ed31fa-9f14-498f-801e-faf6389ecf5b/public_url">IBM Data Science Professional Certificate Badge</a></li>
+    <li><a href="https://www.credly.com/badges/65ed31fa-9f14-498f-801e-faf6389ecf5b/public_url">IBM Data Science Professional Certificate Badge</a><img src="https://images.credly.com/size/110x110/images/0f740f0e-52f0-4ff3-bcac-e8d2ff735c07/image.png" alt="LinkedIn Profile" width="150" height="100"></li>
 </ul>
 <a href="https://coursera.org/share/a5d306330fca1fe7e3cee69ad86986ea"><button>Google AI Essentials</button></a>
 <ul>
@@ -70,14 +70,14 @@
         <td width="50%">
             <h3><b><u>Games 🎮</u></b></h3>
             <ul>
-                <li><a href="https://fransirvent1994.github.io/Games/Game-LizSpock/LizSpockGame">Rock, Paper, Scissors, Lizard, Spock Game</a></li>
+                <li><a href="https://fransirvent1994.github.io/Games/Game-LizSpock/LizSpockGame"><button>Rock, Paper, Scissors, Lizard, Spock Game</button></a></li>
                 <p>A game based on the popular TV show "Big Bang Theory" with an extended twist on "rock, paper, scissors".</p>
             </ul>
         </td>
         <td width="50%">
             <h3><b><u>Utilities</u></b></h3>
             <ul>
-                <li><a href="https://fransirvent1994.github.io/Utilities/Calculator">Calculator</a></li>
+                <li><a href="https://fransirvent1994.github.io/Utilities/Calculator"><button>Calculator</button></a></li>
                 <p>An advanced calculator project.</p>
             </ul>
         </td>
