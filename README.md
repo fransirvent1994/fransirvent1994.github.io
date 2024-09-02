@@ -46,7 +46,7 @@
 </ul>
 <li><a href="https://coursera.org/share/a5d306330fca1fe7e3cee69ad86986ea">Google AI Essentials</a></li>
 <ul>
-    <li><a href="https://www.credly.com/badges/8d31ae5c-6b53-467c-a90e-10c950ac5ece/public_url">Google AI Essentials Badge</a></li>
+    <li><button><a href="https://www.credly.com/badges/8d31ae5c-6b53-467c-a90e-10c950ac5ece/public_url">Google AI Essentials Badge</a></li></button>
 </ul>
 <li><a href="https://coursera.org/share/c0abd0b098bdf516a8076abaebcec545">Automation with Python Professional Certificate</a></li>
 <ul>
