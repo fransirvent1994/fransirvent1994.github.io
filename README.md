@@ -44,12 +44,14 @@
     <a href="https://www.credly.com/badges/65ed31fa-9f14-498f-801e-faf6389ecf5b/public_url"><img src="https://images.credly.com/size/110x110/images/0f740f0e-52f0-4ff3-bcac-e8d2ff735c07/image.png" alt="IBM Data Science Badge" width="150" height="100"></a>
 
 <a href="https://coursera.org/share/a5d306330fca1fe7e3cee69ad86986ea"><button>Google AI Essentials</button></a>
-
-<a href="https://www.credly.com/badges/8d31ae5c-6b53-467c-a90e-10c950ac5ece/public_url"><img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials Badge" width="150" height="100"></a>
+    <a href="https://www.credly.com/badges/8d31ae5c-6b53-467c-a90e-10c950ac5ece/public_url"><img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials Badge" width="150" height="100"></a>
 
 <a href="https://coursera.org/share/c0abd0b098bdf516a8076abaebcec545"><button>Automation with Python Professional Certificate</button></a>
+    <a href="https://www.credly.com/badges/c33ea208-5590-4126-8530-861ef0c7f4bd/public_url"><img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Automation with Python Professional Badge" width="150" height="100"></a>
 
-<a href="https://www.credly.com/badges/c33ea208-5590-4126-8530-861ef0c7f4bd/public_url"><img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Automation with Python Professional Badge" width="150" height="100"></a>
+<!-- Badges -->
+
+
 
 <!-- GitHub Repositories Section -->
 <h2>👨‍💻 <ins>GitHub Repositories</ins> 👨‍💻</h2>
