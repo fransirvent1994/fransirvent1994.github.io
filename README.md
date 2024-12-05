@@ -76,7 +76,7 @@
 </ul>
 
 <!-- GitHub Pages Projects -->
-<h2>🔨 <ins>GitHub Pages Projects</ins> 🔨</h2>
+<h2>🔨 <ins>My Projects and contributions</ins> 🔨</h2>
 <p>This is my web projects section:</p>
 
 <table>
