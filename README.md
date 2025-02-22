@@ -39,7 +39,6 @@
 
 <!-- My certificates -->
 <h2><ins>My Career Certificates</ins></h2>
-<<<<<<< HEAD
 
 <a href="https://coursera.org/share/270d8d9563cf6b79e294a5d9ae3675d5"><button>IBM Data Science Professional Certificate</button></a>
 
@@ -53,7 +52,6 @@
 
 <a href="https://www.credly.com/badges/c33ea208-5590-4126-8530-861ef0c7f4bd/public_url"><img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Automation with Python Professional Badge" width="150" height="140"></a>
 
-=======
 <table>
     <tr>
         <td align="center">
