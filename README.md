@@ -51,6 +51,14 @@
     </tr>
     <tr>
         <td align="center">
+            <h3><u><b><a href="https://coursera.org/share/202de5cd06158fe1f8c7747d09608f39"><button>Back-End Developer by META</button></a></b></u></h3>
+            <a href="https://www.credly.com/badges/bf5afe1e-6b91-4a6b-9978-870032cc92e1">
+                <img src="https://images.credly.com/size/680x680/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png" alt="META Back-End Developer" width="150" height="100" style="display: block; margin: auto;">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
             <h3><u><b><a href="https://coursera.org/share/a5d306330fca1fe7e3cee69ad86986ea"><button>Google AI Essentials</button></a></b></u></h3>
             <a href="https://www.credly.com/badges/8d31ae5c-6b53-467c-a90e-10c950ac5ece/public_url">
                 <img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials Badge" width="150" height="100" style="display: block; margin: auto;">
