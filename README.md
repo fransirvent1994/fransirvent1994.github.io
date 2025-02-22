@@ -1,4 +1,4 @@
-de<div align="center">
+<div align="center">
     <h1>Greetings! 👋 I'm Francisco Sirvent</h1>
     <p>
         I'm a Computer Engineering student at UOC (Universitat Oberta de Catalunya) and a passionate Python Developer eager to contribute to innovative tech projects.
