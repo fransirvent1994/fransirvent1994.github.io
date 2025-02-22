@@ -1,4 +1,4 @@
-<div align="center">
+de<div align="center">
     <h1>Greetings! 👋 I'm Francisco Sirvent</h1>
     <p>
         I'm a Computer Engineering student at UOC (Universitat Oberta de Catalunya) and a passionate Python Developer eager to contribute to innovative tech projects.
@@ -78,7 +78,7 @@
         </td>
     </tr>
 </table>
->>>>>>> 82f22e38e1177e3cf5fd71d3d0a939cae9760112
+
 <!-- Badges -->
 
 <!-- GitHub Repositories Section -->
