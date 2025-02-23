@@ -98,8 +98,8 @@
             <a href="https://github.com/fransirvent1994/Python-Basics"><h3><ins>Python Basics</ins></h3>
             <img src="https://img.freepik.com/fotos-premium/libro-lapiz-icono-dibujos-animados-vectorial-ilustracion-educacion-objeto-icono-concepto-aislado-estilo-dibujo-animado-vectorial-plano-premium_839035-1762469.jpg"
             alt="Python Basics" width="150" height="130">
-            <img align="right"src="https://www.kindpng.com/picc/m/159-1595772_transparent-python-logo-hd-png-download.png"
-            alt="Python Basics" width="40" height="40"></a>
+            <img src="https://www.kindpng.com/picc/m/159-1595772_transparent-python-logo-hd-png-download.png"
+            align="right" alt="Python Basics" width="40" height="40"></a>
         </td>
     </tr>
 </table>
@@ -112,25 +112,29 @@
             <h2><ins>🔨 Try my GitHub Projects 🔨</ins></h2>
         </td>
     </tr>
+    <!-- Sección de Juegos -->
     <tr>
         <td align="center" width="50%">
             <h3>Games 🎮</h3>
             <table border="0" width="100%">
-                <tr align="center">
+                <tr>
+                    <td align="center">
                         <a href="https://fransirvent1994.github.io/Games/Game-LizSpock/LizSpockGame">
-                           <h4><li><ins>Rock, Paper, Scissors, Lizard, Spock Game</ins></h4></li>
+                            <h4><ins>Rock, Paper, Scissors, Lizard, Spock Game</ins></h4>
                         </a>
                         <p>A game based on the popular TV show "Big Bang Theory" with an extended twist on "rock, paper, scissors".</p>
                     </td>
                 </tr>
             </table>
         </td>
+        <!-- Sección de Utilidades -->
         <td align="center" width="50%">
             <h3>Utilities 🛠️</h3>
             <table border="0" width="100%">
-                <tr align="center">
+                <tr>
+                    <td align="center">
                         <a href="https://fransirvent1994.github.io/Utilities/Calculator">
-                            <h4><li><ins>Calculator</ins></h4></li>
+                            <h4><ins>Calculator</ins></h4>
                         </a>
                         <p>An advanced calculator project.</p>
                     </td>
