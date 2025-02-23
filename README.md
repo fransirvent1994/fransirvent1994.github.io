@@ -36,7 +36,7 @@
 <ul>
     <li>Python Developer Django and Flask</li>
     <li>Familiar with Machine Learning concepts</li>
-    <li>APIs
+    <li>APIs</li>
     <li>HTML, CSS and JavaScript</li>
     <li>DevOps tools: Git, Linux, Docker, Kubernetes, Jenkins</li>
     <li>Web-scraping and Automation with Python</li>
