@@ -48,7 +48,7 @@
 </ul>
 
 <!-- My certificates -->
-<table border="0" width="100%">
+<table border="0" align="center" width="100%">
     <tr>
         <td colspan="4" align="center">
             <h2><ins>My Career Certificates</ins></h2>
@@ -77,7 +77,7 @@
 
 <!-- GitHub Repositories Section -->
 
-<table border="0" width="100%">
+<table border="0" align="center" width="100%">
     <tr>
         <td colspan="3" align="center">
             <h2><ins>👨‍💻 GitHub Repositories 👨‍💻</ins></h2>
@@ -106,7 +106,7 @@
 
 <!-- GitHub Pages Projects -->
 
-<table border="0" width="100%">
+<table border="0" align="center" width="100%">
     <tr>
         <td colspan="2" align="center">
             <h2><ins>🔨 Try my GitHub Projects 🔨</ins></h2>
