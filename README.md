@@ -132,7 +132,7 @@
             <h3>Utilities 🛠️</h3>
             <table border="0" width="100%">
                 <tr>
-                    <td align="center">
+                    <td align="center" width="100%">
                         <a href="https://fransirvent1994.github.io/Utilities/Calculator">
                             <h4><ins>Calculator</ins></h4>
                         </a>
