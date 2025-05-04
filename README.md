@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Greetings! 👋 I'm Francisco Sirvent</h1>
     <p>
-        I'm a Computer Engineering student at UOC (Universitat Oberta de Catalunya) and a passionate Python Developer eager to contribute to innovative tech projects.
+        I'm a Computer Engineering student at UOC (Universitat Oberta de Catalunya) and a passionate Developer eager to contribute to innovative tech projects.
         My journey with programming began with languages like C, C++, and C#, but Python and JavaScript have become my main focus. Check out some of my projects on my GitHub profile.
         I'm also delving into front-end development and currently studying DevOps technologies to expand my skills and opportunities in the field.
     </p>
@@ -34,17 +34,16 @@
 <!-- Skills Section -->
 <h2>💻 <ins>Skills and Technologies</ins> 💻</h2>
 <ul>
-    <li>Python Developer Django and Flask</li>
-    <li>Familiar with Machine Learning concepts</li>
+    <li>Python with Django and Flask</li>
+    <li>Familiar with Machine Learning</li>
     <li>APIs</li>
     <li>HTML, CSS and JavaScript</li>
     <li>DevOps tools: Git, Linux, Docker, Kubernetes, Jenkins</li>
     <li>Web-scraping and Automation with Python</li>
     <li>Data Science specialized with Pandas, Numpy and Matplotlib</li>
     <li>DataBases with SQL, MySQL and SQLlite with Python</li>
-    <li>Proficient with Linux</li>
+    <li>Linux expert</li>
     <li>Spanish and English bilingual</li>
-    <li>Passionate about technology and eager to learn new skills</li>
 </ul>
 
 <!-- My certificates -->
