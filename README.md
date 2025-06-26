@@ -8,7 +8,6 @@
     <p>
         I´m Spanish and also bilingual with English, learning German, curious and willing to learn new things.
     </p>
-</div>
 
 <!-- Contact Links -->
 <table border="0" align="center" width="100%">
@@ -152,7 +151,8 @@
             <a href="">
                 <h3><ins>Projects</ins></h3>
                 <img src="https://img.freepik.com/vector-premium/icono-seguridad-cibernetica-cifrado-concepto-seguro-protegido-datos-ciberseguridad_136875-4238.jpg" alt="Projects" width="150" height="130">
-            </a>
-        </td>
-    </tr>
-</table>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
