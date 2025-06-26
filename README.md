@@ -142,7 +142,7 @@
     </tr>
     <tr>
         <td align="center" width="50%">
-            <a href="https://github.com/fransirvent1994">
+            <a href="https://fransirvent1994.github.io/Cybersecurity/Experience/Experience.html">
                 <h3><ins>Experience</ins></h3>             
                 <img src="https://static.vecteezy.com/system/resources/previews/002/697/479/original/cybersecurity-icon-on-white-vector.jpg" alt="Cybersecurity experience" width="150" height="140">
             </a>
@@ -151,8 +151,7 @@
             <a href="">
                 <h3><ins>Projects</ins></h3>
                 <img src="https://img.freepik.com/vector-premium/icono-seguridad-cibernetica-cifrado-concepto-seguro-protegido-datos-ciberseguridad_136875-4238.jpg" alt="Projects" width="150" height="130">
-                </a>
-            </td>
-        </tr>
-    </table>
-</div>
+            </a>
+        </td>
+    </tr>
+</table>
