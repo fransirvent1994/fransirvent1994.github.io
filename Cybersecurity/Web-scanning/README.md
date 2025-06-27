@@ -8,7 +8,7 @@
 
 <p>
 
-![alt text](imgs/KaliLogo.png)
+![alt text](imgs/kaliLogo.png)
 
 > <b>DISCLAIMER:</b>
 This document is just for investigation and ethical hacking.
@@ -27,9 +27,8 @@ This document is just for investigation and ethical hacking.
 
 <p>
     There are lots of tools which can be used for Cybersecurity, but let´s keep with the basic ones and the most used ones, starting by <b><u>Nmap</b></u>
-</p>
 
-![alt text](imgs/nmap.png)
+![alt text](imgs/nmapLogo.png)
         
 <p>
     Nmap stands for "Network Mapper", which means it is a tool that can scan vulnerabilities on websites, mostly scanning ports and identifying the vulnerabilities.
@@ -54,3 +53,7 @@ This document is just for investigation and ethical hacking.
 
 </p>
 
+<h2>
+    <b>
+        <u>
+            Here´s the access to the link for further demonstrations.
