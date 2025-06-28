@@ -60,6 +60,8 @@
                 <li>Security reports</li>
             </ul>
         </td>
+    </tr>
+</table>
 
 <!-- My certificates -->
 <table border="0" align="center" width="100%">
@@ -165,3 +167,4 @@
         </td>
     </tr>
 </table>
+
