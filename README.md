@@ -97,24 +97,32 @@
             </a>
         </td>
     </tr>
-    <tr>
-        <td colspan="4" align="center">
-            <h2><b>Cybersecurity</b></h2>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://www.credly.com/badges/9e5d35a8-6f9b-4c6a-9df0-9cfa73f49eef">
-                <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity" width="150" height="140">
-        </td>
-        </a>
-    <td align="center" width="25%">
-            <a href="">
-                <img src="" alt="CompTIA Security+" width="150" height="140">
-            </a>
-            (In process)
-        </td>
-    </tr>
+    <table border="0" align="center" width="100%">
+        <tr>
+            <td colspan="2" align="center">
+                <h2><b>Cybersecurity</b></h2>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="50%">
+                <a href="https://www.credly.com/badges/9e5d35a8-6f9b-4c6a-9df0-9cfa73f49eef">
+                    <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" 
+                    alt="Google Cybersecurity" 
+                    width="160" 
+                    height="140">
+                </a>
+            </td>
+            <td align="center" width="50%">
+                <a href="">
+                    <img src="" 
+                    alt="CompTIA Security+" 
+                    width="150" 
+                    height="140">
+                </a>
+                (In process)
+            </td>
+        </tr>
+    </table>
 </table>
 
 <!-- GitHub Repositories Section -->
