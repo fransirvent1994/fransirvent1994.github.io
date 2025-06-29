@@ -106,6 +106,7 @@
         <td align="center">
             <a href="https://www.credly.com/badges/9e5d35a8-6f9b-4c6a-9df0-9cfa73f49eef">
                 <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity" width="150" height="140">
+        </td>
         </a>
     <td align="center" width="25%">
             <a href="">
