@@ -129,7 +129,7 @@
 <table border="0" align="center" width="100%">
     <tr>
         <td colspan="3" align="center">
-            <h2><ins>👨‍💻 GitHub Repositories 👨‍💻</ins></h2>
+            <h2><ins>👨‍💻 GitHub Repositories and experience 👨‍💻</ins></h2>
         </td>
     </tr>
     <tr>
@@ -140,8 +140,8 @@
             </a>
         </td>
         <td align="center" width="33%">
-            <a href="https://github.com/fransirvent1994/VisibleProjects">
-                <h3><ins>My Projects</ins></h3>  
+            <a href="https://fransirvent1994.github.io/Programming/Experience/Experience.html">
+                <h3><ins>My experience and Projects</ins></h3>  
                 <img src="https://static.vecteezy.com/system/resources/previews/008/842/382/original/an-old-open-book-with-abstract-text-illustration-in-cartoon-style-on-a-white-background-vector.jpg" alt="Visible Projects" width="140" height="130">
             </a>
         </td>
