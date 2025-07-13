@@ -8,53 +8,35 @@
     <p>
         I´m Spanish and also bilingual with English, learning German, curious and willing to learn new things.
     </p>
-    <!-- Contact Links -->
+
+<!-- Contact Links -->
 <table border="0" align="center" width="800">
     <tr>
         <td colspan="3" align="center">
-            <h3>
-                <ins>
-                    My Contact Social Medias
-                </ins>
-            </h3>
+            <h3><ins>My Contact Social Medias</ins></h3>
         </td>
     </tr>
     <tr>
         <td align="center" width="400">
-            <h3>
-                <ins>
-                    📫Contact
-                </ins>
-            </h3>
+            <h3><ins>📫Contact</ins></h3>
             <a href="mailto:fsirventcandea@gmail.com">
-                <img src="https://th.bing.com/th/id/R.ae1fbd64a793791023ce79747500f709?rik=z%2bHyd97vQbPpFA&pid=ImgRaw&r=0" 
-                alt="Email" 
-                width="90">
+                <img src="https://th.bing.com/th/id/R.ae1fbd64a793791023ce79747500f709?rik=z%2bHyd97vQbPpFA&pid=ImgRaw&r=0" alt="Email" width="90">
             </a>
         </td>
         <td align="center" width="400">
-            <h3>
-                <ins>
-                    🔗LinkedIn
-                </ins>
-            </h3>
+            <h3><ins>🔗LinkedIn</ins></h3>
             <a href="https://www.linkedin.com/in/francisco-m-sirvent-candea-68749719b">
-                <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" 
-                alt="LinkedIn Profile" 
-                width="110">
+                <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="LinkedIn Profile" width="110">
             </a>
         </td>
     </tr>
 </table>
+
 <!-- Skills Section -->
-<table border="0"; align="center" width="100%">
+<table border="0" align="center" width="100%">
     <tr>
         <td colspan="2" align="center">
-            <h2>
-                <ins>
-                    💻Skills and Technologies💻
-                </ins>
-            </h2>
+            <h2><ins>💻Skills and Technologies💻</ins></h2>
         </td>
     </tr>
     <tr>
@@ -88,6 +70,7 @@
         </td>
     </tr>
 </table>
+
 <!-- My certificates -->
 <table border="0" align="center" width="800">
     <tr>
@@ -111,22 +94,21 @@
     <tr>
         <td align="center" width="200">
             <a href="https://www.credly.com/badges/65ed31fa-9f14-498f-801e-faf6389ecf5b/public_url">
-                <img src="https://images.credly.com/size/110x110/images/0f740f0e-52f0-4ff3-bcac-e8d2ff735c07/image.png" 
-                alt="IBM Data Science Badge" 
+                <img src="https://images.credly.com/size/110x110/images/0f740f0e-52f0-4ff3-bcac-e8d2ff735c07/image.png" alt="IBM Data Science Badge" 
                 width="150" 
                 height="130">
             </a>
         </td>
         <td align="center" width="200">
             <a href="https://www.credly.com/badges/bf5afe1e-6b91-4a6b-9978-870032cc92e1/public_url">
-                <img src="https://images.credly.com/size/110x110/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png"alt="Google AI Essentials Badge" 
+                <img src="https://images.credly.com/size/110x110/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png" alt="Google AI Essentials Badge" 
                 width="150" 
                 height="140">
             </a>
         </td>
         <td align="center" width="200">
             <a href="https://www.credly.com/badges/8d31ae5c-6b53-467c-a90e-10c950ac5ece/public_url">
-                <img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png"alt="Google AI Essentials Badge" 
+                <img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials Badge" 
                 width="150" 
                 height="140">
             </a>
@@ -134,8 +116,7 @@
         <td align="center" width="200">
             <a href="https://www.credly.com/badges/c33ea208-5590-4126-8530-861ef0c7f4bd/public_url">
                 <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" 
-                alt="Automation with Python Professional Badge" 
-                width="150" 
+                alt="Automation with Python Professional Badge" width="150" 
                 height="140">
             </a>
         </td>
@@ -171,6 +152,7 @@
         </tr>
     </table>
 </table>
+
 <!-- GitHub Repositories Section -->
 <table border="0" align="center" width="800">
     <tr>
@@ -183,20 +165,17 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="271">
+        <td align="center" width="267">
             <a href="https://github.com/fransirvent1994">
                 <h3>
                     <ins>
                         My GitHub Profile
                     </ins>
                 </h3>             
-                <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" 
-                alt="My GitHub Profile" 
-                width="150" 
-                height="110">
+                <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="My GitHub Profile" width="150" height="110">
             </a>
         </td>
-        <td align="center" width="271">
+        <td align="center" width="267">
             <a href="https://fransirvent1994.github.io/Programming/Experience/Experience.html">
                 <h3>
                     <ins>
@@ -209,7 +188,7 @@
                 height="130">
             </a>
         </td>
-        <td align="center" width="271">
+        <td align="center" width="267">
             <a href="https://github.com/fransirvent1994/Python-Basics">
                 <h3>
                     <ins>
@@ -224,6 +203,7 @@
         </td>
     </tr>
 </table>
+
 <!-- Cybersecurity info -->
 <table border="0" align="center" width="800">
     <tr>
@@ -243,8 +223,7 @@
                         Experience
                     </ins>
                 </h3>             
-                <img src="https://static.vecteezy.com/system/resources/previews/002/697/479/original/cybersecurity-icon-on-white-vector.jpg" 
-                alt="Cybersecurity experience" 
+                <img src="https://static.vecteezy.com/system/resources/previews/002/697/479/original/cybersecurity-icon-on-white-vector.jpg" alt="Cybersecurity experience" 
                 width="150" 
                 height="140">
             </a>
@@ -264,4 +243,4 @@
         </td>
     </tr>
 </table>
-</div>
+
