@@ -195,10 +195,10 @@
                         Teaching about Python.
                     </ins>
                 </h3>
-                <img src="https://www.kindpng.com/picc/m/159-1595772_transparent-python-logo-hd-png-download.png" 
+                <img src="https://th.bing.com/th/id/R.8c1719d731849436c9b734d7d65e9558?rik=bSbWm6hjVbDSPg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fpython-logo-png-big-image-png-2400.png&ehk=QVy%2f7oOiTJ16YDb0ys7dyNAHnvvwPX1WAaD7AvoVnTU%3d&risl=&pid=ImgRaw&r=0" 
                 alt="Python Basics" 
-                width="120" 
-                height="120">
+                width="820" 
+                height="160">
             </a>
         </td>
     </tr>
