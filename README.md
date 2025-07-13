@@ -1,10 +1,4 @@
-<div style="display: flex;
-background-color: antiquewhite;
-justify-content: center; 
-align-items: center; 
-flex-direction: column; 
-min-height: 100vh; 
-text-align: center;">
+<div align="center">
     <h1>
         Greetings! 👋 I'm Francisco Sirvent
     </h1>
