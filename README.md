@@ -33,14 +33,14 @@
 </table>
 
 <!-- Skills Section -->
-<table border="0" align="center" width="100%">
+<table border="0" align="center" width="800">
     <tr>
         <td colspan="2" align="center">
             <h2><ins>💻Skills and Technologies💻</ins></h2>
         </td>
     </tr>
     <tr>
-        <td align="center" width="50%">
+        <td align="center" width="400">
             <h2>
                 <b>
                     Developer
@@ -54,7 +54,7 @@
                 <li>Linux expert</li>
             </ul>
         </td>
-        <td align="center" width="50%">
+        <td align="center" width="400">
             <h2>
                 <b>
                     Cybersecurity
