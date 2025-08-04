@@ -6,7 +6,7 @@
         I'm a Computer Engineering student at UOC (Universitat Oberta de Catalunya) and a passionate about science and technologies, specially programming and Cybersecurity, which are my main career focus.
     </p>
     <p>
-        I´m Spanish and also bilingual with English, learning German, curious and willing to learn new things.
+        I´m Spanish and English bilingual, learning German, curious and willing to learn new things.
     </p>
 
 <!-- Contact Links -->
