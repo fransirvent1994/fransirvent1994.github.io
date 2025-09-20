@@ -115,10 +115,10 @@
                     Debian project
                 </ins>
             </h2>
-            Host-Guest communication and
+            Host-Guest communication with
             HTTP and HTTPs proxy
             configuration web service on
-            Debian OS.
+            Debian OS by using docker and bun.
         </td>
     </tr>
     <tr>

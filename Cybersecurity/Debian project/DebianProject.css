@@ -1,6 +1,26 @@
 body{
     text-align: center;
     background-color: antiquewhite;
-    font-size: 14px;
+    font-size: 16px;
     font-family: Arial;
+}
+
+li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+img{
+  text-align: center;
+  height: 220px;
+  width: 320px;
+  border-radius: 20%;
+}
+
+
+disclaimer{
+  font-size: large;
+  color: aquamarine;
 }
