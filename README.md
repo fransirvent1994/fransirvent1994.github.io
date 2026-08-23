@@ -41,7 +41,7 @@
             <a href="https://www.linkedin.com/in/francisco-m-sirvent-candea-68749719b">
             <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" 
             alt="LinkedIn Profile" 
-            width="110">
+            width="160">
             </a>
         </td>
     </tr>
@@ -216,11 +216,11 @@
             <a href="https://github.com/fransirvent1994/Python-Basics">
                 <h3>
                     <ins>
-                        Teaching about Python.
+                        Teaching Python.
                     </ins>
                 </h3>
-                <img src="https://th.bing.com/th/id/R.8c1719d731849436c9b734d7d65e9558?rik=bSbWm6hjVbDSPg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fpython-logo-png-big-image-png-2400.png&ehk=QVy%2f7oOiTJ16YDb0ys7dyNAHnvvwPX1WAaD7AvoVnTU%3d&risl=&pid=ImgRaw&r=0" 
-                alt="Python Basics" 
+                <img src="https://tse2.mm.bing.net/th/id/OIP.xePC9eCXE-p7xCpCMUAaFgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" 
+                alt="Python" 
                 width="820" 
                 height="160">
             </a>
